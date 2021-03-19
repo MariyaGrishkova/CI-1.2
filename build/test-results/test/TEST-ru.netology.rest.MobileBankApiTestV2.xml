@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestV2" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-19T16:13:32" hostname="LAPTOP-LQ4H6VV5" time="5.889">
+<testsuite name="ru.netology.rest.MobileBankApiTestV2" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-19T16:42:40" hostname="LAPTOP-LQ4H6VV5" time="5.909">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV2" time="5.889">
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV2" time="5.909">
     <failure message="java.net.ConnectException: Connection refused: connect" type="java.net.ConnectException">java.net.ConnectException: Connection refused: connect
 	at java.base/java.net.PlainSocketImpl.connect0(Native Method)
 	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:101)
