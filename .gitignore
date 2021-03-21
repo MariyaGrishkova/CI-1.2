@@ -41,5 +41,6 @@ out/
 !../gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-build/generated/
+/build/
+/build/
 src/main/
